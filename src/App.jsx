@@ -9,7 +9,6 @@ import {
 } from '@react-three/fiber';
 import { TextureLoader } from 'three';
 import whitedot from '/white_dot.png';
-// import starTexture from '/2k_stars.jpg';
 import galaxyTexture from '/2k_stars_milky_way.jpg';
 import { Perf } from 'r3f-perf';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls';
